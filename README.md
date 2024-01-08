@@ -17,3 +17,15 @@ For the implementation of the intelligent system, a set of journals from the Els
 These data are obtained through the web portal of the publisher ScienceDirect (https://www.sciencedirect.com/ ) which can be accessed through the university library.
 
 In order to download the basic data mentioned above, it can be done by exporting all the references of each issue to a RIS or Bibtex format, incorporating the abstract.
+
+## Development
+
+As stated above, coursework will be completed using the Python programming language. For the text preprocessing phase, apart from the feature_extraction.text module of Sklearn, the package may also be consideredNatural Language Toolkit(NLTK) available as free software, or similar. To obtain the models, the Sklearn library will also be used. For the optional part it will be done using the Keras development framework. However, the above does not exclude the use of other packages that the student considers necessary to carry out the work.
+
+## Journals
+1. Applied Ergonomics
+2. Data & Knowledge Engineering
+3. Expert Systems with Applications
+4. Journal of Visual Communication and Image Representation
+5. Pattern Recognition
+6. Robotics and Autonomous Systems

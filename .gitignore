@@ -1,4 +1,2 @@
-
-*.bib
-*.bib_
-*.csv
+/.ipynb_checkpoints/
+/models/
